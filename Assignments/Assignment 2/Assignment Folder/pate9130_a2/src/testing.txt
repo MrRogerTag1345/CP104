@@ -1,0 +1,72 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_a2
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2020-10-01
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total amount of sales: 23
+Projected Profit Report
+--------------------------
+Total sales:   $ 23.00
+Annual profit: % 23
+--------------------------
+Profit:        $ 5.29
+
+Enter the total amount of sales: 7000
+Projected Profit Report
+--------------------------
+Total sales:   $ 7000.00
+Annual profit: % 23
+--------------------------
+Profit:        $ 1610.0
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a date in the format MMDDYYYY: 01212002
+21/1/2002
+
+Enter a date in the format MMDDYYYY: 10131917
+13/10/1917
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a number: 63
+9
+
+Enter a number: 99
+18
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of balloons: 500
+Number of children: 13
+Each child will receive 38 balloons
+Balloons that will not be distributed: 6
+
+Number of balloons: 120
+Number of children: 15
+Each child will receive 8 balloons
+Balloons that will not be distributed: 0
+
+Number of balloons: 60
+Number of children: 60
+Each child will receive 1 balloons
+Balloons that will not be distributed: 0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Midterm mark (%): 75
+Final exam mark (%): 60
+Your weighted exam average is: 65.0 %. The passing mark of the weighted exam average is 50%
+
+Midterm mark (%): 60
+Final exam mark (%): 38
+Your weighted exam average is: 45.3 %. The passing mark of the weighted exam average is 50%
+-------------------------------------------------------
