@@ -1,0 +1,57 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_a7
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2020-10-15
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a sequence of 20 choices separated by a space, each A-D in Uppercase: A A A A B B B B C C C C D D D D E E E E
+You failed your driver license exam
+#Correct answers = 6 ,#incorrect answers = 14
+A list of incorrectly answered questions = [1, 4, 6, 7, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19]
+To pass the exam you need to score 15 out of 20
+
+Enter a sequence of 20 choices separated by a space, each A-D in Uppercase: A C A A D B C A C B C D C A D C B B A A
+You passed your driver license exam
+#Correct answers = 18 ,#incorrect answers = 2
+A list of incorrectly answered questions = [10, 18]
+To pass the exam you need to score 15 out of 20
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter numbers: 1234
+10
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a string: Hello there
+Most frequent characters: e
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a string: HelloThere
+Hello there
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter words: dog
+Enter string: gi
+Enter string: im
+Enter string: me
+Enter string: 
+True
+
+
+-------------------------------------------------------

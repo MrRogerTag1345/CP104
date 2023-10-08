@@ -1,0 +1,63 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_a1
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2020-09-16
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is "petabyte"?
+A petabyte (PB)is a lot of data:
+1 PB = 20 million 4 drawer filing cabinets filled with text
+1.5 PB = size of 10 billion photos on facebook
+20 PB = the amount of data processed by Google per day
+that's a lot of data to handle. Big Data.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter your favourite course: MA103
+Enter the grade you hope to get: A+
+You hope to get A+ in your favourite course MA103.
+
+Enter your favourite course: MA122
+Enter the grade you hope to get: A-
+You hope to get A- in your favourite course MA122.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+What is first name? Romit
+What is last name? Sagu
+Welcome Romit Sagu
+
+What is first name? Chetas
+What is last name? Patel
+Welcome Chetas Patel
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the height in inches: 67
+The equivalent height in meters is 1.70
+
+Enter the height in inches: 75
+The equivalent height in meters is 1.91
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: 7000
+Interest (decimal): 0.10
+Number of years: 16
+Compound interest per year: 2
+Balance: 33354.59
+
+Principal: 234567
+Interest (decimal): 0.02
+Number of years: 34
+Compound interest per year: 789
+Balance: 463002.59
+-------------------------------------------------------

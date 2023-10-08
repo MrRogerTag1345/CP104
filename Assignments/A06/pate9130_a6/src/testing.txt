@@ -1,0 +1,88 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_a6
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2020-11-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter a positive number: 3
+Enter a positive number: 6
+Enter a positive number: 8
+Enter a positive number: 2
+Enter a positive number: -3
+Enter a positive number: 5
+Enter a positive number: -1
+Enter a positive number: -4
+Enter a positive number: -6
+Enter a positive number: 0
+List entered: [3, 6, 8, 2, 5]
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive number: 2
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 5
+Enter a positive number: 73
+Enter a positive number: 6
+Enter a positive number: 6
+Enter a positive number: 3
+52Enter a positive number: 
+Enter a positive number: 67
+Enter a positive number: 34
+Enter a positive number: 2
+Enter a positive number: 0
+List entered: [2, 2, 3, 5, 73, 6, 6, 3, 52, 67, 34, 2]
+target = 2
+target exists at location [0, 1, 11]
+
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 0
+List entered: [1, 2, 3, 4]
+target = 5
+target exists at location []
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 5
+Enter a positive number: 6
+Enter a positive number: 7
+Enter a positive number: 8
+Enter a positive number: 9
+Enter a positive number: 0
+List entered: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Largest odd: 9
+
+Enter a positive number: 2
+Enter a positive number: 2
+Enter a positive number: 2
+Enter a positive number: 2
+Enter a positive number: 0
+List entered: [2, 2, 2, 2]
+Largest odd: -1
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a positive number: 1
+Enter a positive number: 2
+Enter a positive number: 3
+Enter a positive number: 4
+Enter a positive number: 0
+List entered: [1, 2, 3, 4]
+List reversed: [4, 3, 2, 1]
+-------------------------------------------------------
+
