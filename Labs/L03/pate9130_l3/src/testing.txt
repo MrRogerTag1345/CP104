@@ -1,0 +1,57 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  pate9130_l3
+-------------------------------------------------------
+Author:  Chetas Patel
+ID:      200679130
+Email:   pate9130@mylaurier.ca
+Version: 2020-09-21
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+        Up above the world so high,
+        Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter minimum: 34
+Enter maximum: 1203
+The difference between 1203 and 34 is 1169
+
+Enter minimum: 312
+Enter maximum: 1235
+The difference between 1235 and 312 is 923
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter cost: $50
+Enter quantity: 2
+Given a cost of $50.0 and a quantity of 2 the total is $100.0
+
+Enter cost: $16.25
+Enter quantity: 3
+Given a cost of $16.25 and a quantity of 3 the total is $48.75
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+left----------------
+-------middle-------
+---------------right
+
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter number of minutes: 2345
+There are 1 days, 15 hours, and 5 minutes in 2345 minutes
+
+Enter number of minutes: 19024
+There are 13 days, 5 hours, and 4 minutes in 19024 minutes
+-------------------------------------------------------
